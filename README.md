@@ -69,17 +69,7 @@ My personal portfolio showcasing my web development skills and projects.
 
 🔗 [Visit Portfolio](https://ayesha-portfolio-inky.vercel.app/)
 
-### 📸 Instagram Clone
-A frontend project inspired by Instagram's user interface.
 
-🔗 Add your GitHub repository link here.
-
-### 🏥 Ali Medical Store
-A web project based on a medical store interface.
-
-🔗 Add your GitHub repository link here.
-
----
 
 ## 🎯 Current Focus
 
